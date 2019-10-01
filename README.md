@@ -1,0 +1,2 @@
+# lesym
+developer / marketing
