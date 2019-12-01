@@ -1,2 +1,2 @@
-# lesym
-developer / marketing
+# MOBILE
+CRUD - ANDROID / IOS
